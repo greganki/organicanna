@@ -1,0 +1,9 @@
+body {
+    width: 100%;
+}
+.content {
+    margin-left: 20%;
+}
+#title {
+    text-align: center
+}
