@@ -1,9 +1,13 @@
 body {
     width: 100%;
 }
-.content {
-    margin-left: 20%;
+#content {
+    text-indent: 10%;
 }
 #title {
-    text-align: center
+    display: inline;
+    text-align: center;
+}
+#instagram {
+    margin-left: 23%;
 }
