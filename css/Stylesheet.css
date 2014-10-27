@@ -1,13 +1,14 @@
     body {
         width: 100%;
     }
-    .content {
-        text-indent: 10%;
-    }
     #title {
         display: inline;
         text-align: center;
     }
     #instagram {
         margin-left: 23%;
+    }
+    #intro {
+        margin-left: 10%;
+        margin-right: 10%;
     }
