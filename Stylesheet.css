@@ -1,7 +1,7 @@
 body {
     width: 100%;
 }
-#content {
+.content {
     text-indent: 10%;
 }
 #title {
